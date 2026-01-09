@@ -13,4 +13,6 @@ venv/
 # Environment variables / secrets
 .env
 
+# Vector DB local storage
+qdrant_storage/
 
